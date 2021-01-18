@@ -28,5 +28,5 @@ func main() {
 	}
 	weatherBool, _ := strconv.ParseBool(weather)
 
-	fmt.Printf("Hi! My name is %s. I have lived in %s for %d years. They say the weather is amazing, which is %t.", name, hometown, int(years), weatherBool)
+	fmt.Printf("Hi! My name is %s. I have lived in %s for %d years. They say the weather is amazing, which is %t.\n", name, hometown, int(years), weatherBool)
 }
