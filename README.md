@@ -1,1 +1,1 @@
-# go-calculator
+# go-workshop
